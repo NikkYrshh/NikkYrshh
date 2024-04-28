@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Nikita Yershov, a Ukrainian living in Bath, UK. I am pursuing a Master's degree in Machine Learning and Autonomous Systems at the University of Bath. My specializations include computer vision, machine learning, and robotics.
+I am Nikita Yershov, a Ukrainian living in Bath, UK. I am pursuing a Master's degree in Machine Learning and Autonomous Systems at the University of Bath. 
+- My specializations include computer vision, machine learning, and robotics.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nik-yershov)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:niki.iersh@gmail.com)
