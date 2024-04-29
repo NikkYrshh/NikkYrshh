@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 I am Nikita Yershov, a Ukrainian living in Bath, UK. I am pursuing a Master's degree in Machine Learning and Autonomous Systems at the University of Bath. 
 - My specializations include computer vision, machine learning, and robotics.
+- I am interested in applied science and research 🔭
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nik-yershov)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:niki.iersh@gmail.com)
