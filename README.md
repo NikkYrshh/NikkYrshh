@@ -36,6 +36,10 @@ I am Nikita Yershov, a Ukrainian living in Bath, UK. I am pursuing a Master's de
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+#### OS
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikkYrshh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
